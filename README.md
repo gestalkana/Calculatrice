@@ -6,8 +6,7 @@
 
 ## 📖 Présentation
 
-**Info Calc** est une application de calculatrice développée avec **Python**. Elle permet d’effectuer les opérations mathématiques de base dans une interface claire.  
-Selon la version, elle peut être en **console** ou avec une **interface graphique PyQt** ou **Tkinter**.
+**Info Calc** est une application de calculatrice développée avec **Python**. Elle permet d’effectuer les opérations mathématiques de base dans une interface claire. **interface graphique PyQt**
 
 ---
 
