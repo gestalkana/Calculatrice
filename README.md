@@ -1,16 +1,16 @@
-# 🧮 Info Calc – Application de Calculatrice
+# Info Calc – Application de Calculatrice
 
 **Une calculatrice simple, rapide et efficace codée en Python.**
 
 ---
 
-## 📖 Présentation
+## Présentation
 
 **Info Calc** est une application de calculatrice développée avec **Python**. Elle permet d’effectuer les opérations mathématiques de base dans une interface claire. **interface graphique PyQt**
 
 ---
 
-## 🔢 Fonctionnalités
+## Fonctionnalités
 
 - ➕ Addition
 - ➖ Soustraction
@@ -20,15 +20,15 @@
 
 ---
 
-## 🛠️ Technologies utilisées
+## Technologies utilisées
 
-- 🐍 **Python 3**
-- 🖥️ **PyQt5** 
-- 🧪 **Math** module *(si fonctions avancées)*
+- **Python 3**
+- **PyQt5** 
+- **Math** module *(si fonctions avancées)*
 
 ---
 
-## 🚀 Installation et utilisation
+## Installation et utilisation
 
 ### 🔹 Prérequis :
 - Python 3.x
